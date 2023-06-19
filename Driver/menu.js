@@ -27,7 +27,7 @@ const Menu = ({route, navigation}) => {
     method: 'GET',
     headers: {
       'content-type': 'application/octet-stream',
-      'X-RapidAPI-Key': 'd4eae6d239msh9d73f3ce0e2000ap116a54jsn4e20d2a8003d',
+      'X-RapidAPI-Key': 'APIKEY',
       'X-RapidAPI-Host': 'burgers-hub.p.rapidapi.com'
     }
     
